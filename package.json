@@ -1,0 +1,15 @@
+{
+  "name": "lazy-promise",
+  "version": "1.1.0",
+  "description": "moved: bare-bones lazily-evaluated Promises/A+ implementation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/then/lazy-promise.git"
+  },
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "dependencies": {
+    "lazy-promise": "~1.1.0"
+  }
+}
